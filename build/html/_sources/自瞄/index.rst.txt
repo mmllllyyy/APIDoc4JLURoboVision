@@ -1,0 +1,17 @@
+the document of self-aiming
+=========================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   
+   Serial.rst
+   GxCamera.rst
+   Armor.rst
+   AngleSolver.rst
+   Windmill.rst
+   Can.rst
+   General.rst
+
+
